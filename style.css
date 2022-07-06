@@ -9,3 +9,20 @@ body{
 h1{
     font-size:50px;
 }
+#banner-container{
+    display:flex;
+}
+.half-wrap h1{
+    line-height:2em;
+}
+.text-clr{
+    color:orangered;
+}
+.half-wrap{
+    width:50%;
+    padding-left:40px;
+    padding-right:40px;
+}
+.half-wrap img{
+    width: 90%;
+}
